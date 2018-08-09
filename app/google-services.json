@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "828158760616",
+    "firebase_url": "https://fir-messagetest-f34c4.firebaseio.com",
+    "project_id": "fir-messagetest-f34c4",
+    "storage_bucket": "fir-messagetest-f34c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828158760616:android:2ee577c0660c0090",
+        "android_client_info": {
+          "package_name": "com.qxl.Client.Beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828158760616-mlnoclv6ricb6gdodne716d7e68msbov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9owWNig0VopTokNeUiDE_iLRBcDpm8aw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
